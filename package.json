@@ -60,7 +60,7 @@
     "pdf-lib": "^1.17.1",
     "pdfjs-dist": "^5.4.54",
     "sharp": "^0.34.3",
-    "tesseract.js": "^6.0.1",
+    "tesseract.js": "^7.0.0",
     "usb": "^2.16.0",
     "uuid": "^11.1.0"
   },
